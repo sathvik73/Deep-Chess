@@ -7,7 +7,7 @@
 
  
 
-Introduction 
+# Introduction 
 
  
 
@@ -15,7 +15,7 @@ The purpose of this project is to create a chess-playing engine capable of makin
 
  
 
-Background Review 
+# Background Review 
 
 Conduct thorough research on chess game mechanics, rules, strategies, and existing AI implementations. 
 
@@ -77,7 +77,7 @@ Provide ongoing support, maintenance, and updates as needed.
 
  
 
-Problem Statement 
+# Problem Statement 
 
  
 
@@ -87,7 +87,7 @@ Develop a chess-playing engine capable of making intelligent moves by evaluating
 
  
 
-Objective 
+# Objective 
 
  
 
@@ -133,7 +133,7 @@ The evaluation function assigns a numerical value to a given board position, rep
 
  
 
-Solution approach 
+# Solution approach 
 
  
 
@@ -155,7 +155,7 @@ Testing and Optimization: Test the AI bot against different opponents, including
 
  
 
-References 
+# References 
 
  
 
